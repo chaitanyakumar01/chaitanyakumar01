@@ -1,4 +1,15 @@
-# 💫 About Me:
+🚀 Engineering student passionate about learning and building impactful tech.
+
+💻 Currently exploring Data Structures & Algorithms using C++  
+🛡️ Learning Cybersecurity basics and ethical hacking  
+🌱 Improving my problem-solving and development skills every day  
+
+📚 Following Striver's DSA sheet & hands-on with real C++ code  
+🛠️ Familiar with C, C++, HTML, CSS, and Git basics  
+📌 Open to collaborating on beginner-friendly projects and learning together
+
+🔍 Always curious • Always learning  
+
 <br>
 
 
